@@ -1,0 +1,8 @@
+.header{
+    background: beige;
+    height:200px;
+    width: 40%;
+    display: flex;
+    margin-left: 60px;
+    margin-top: 10px;
+}

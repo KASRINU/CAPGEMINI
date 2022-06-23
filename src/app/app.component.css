@@ -1,0 +1,9 @@
+.work{
+    background: aqua;
+    height:700px;
+    width: 100%;
+    
+}
+.work1{
+    display: flex;
+}
